@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+
+  ![snake gif](https://github.com/akaPIPP/akaPIPP/blob/output/github-snake-dark.svg)
+
+</div>
 
 <!--
 **akaPIPP/akaPIPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
